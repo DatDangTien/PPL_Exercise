@@ -41,7 +41,9 @@ class StaticCheck(Visitor):
         
     # class Assign: #lhs:Id,rhs:Exp
     # if Id.typ -> Check with the rhs
-    # if not Id.typ -> Assign typ to Id if rhs.typ else TypeCannotBeInferred
+    # if not Id.typ but exp.typ-> Assign typ from to Id 
+    # if not exp.typ but Id.typ -> assign typ to exp 
+    # else TypeCannotBeInferred
     def visitAssign(self,ctx:Assign,o:object):
         exp_typ = self.visit(ctx.rhs,o)
         id_typ = self.visit(ctx.lhs,o)
