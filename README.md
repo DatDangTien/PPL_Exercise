@@ -1,4 +1,4 @@
 # PPL_Exercise
-HCMUT\n
-Sem 221\n 
+# HCMUT
+# Sem 221 
 Homework of Subject: Principles of Programming Language 
