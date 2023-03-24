@@ -1,2 +1,4 @@
 # PPL_Exercise
-Homework of Subject: Principles of Programming Language - HCMUT
+HCMUT 
+Sem 221
+Homework of Subject: Principles of Programming Language 
