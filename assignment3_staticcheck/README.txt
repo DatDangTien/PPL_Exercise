@@ -15,5 +15,7 @@ python run.py test ASTGenSuite
 python run.py test CheckerSuite
 python run.py test CodeGenSuite
 
-
+For this assignment, I implemented:
+assignment3_staticcheck/src/main/mt22/checker/StaticChecker.py
+assignment3_staticcheck/src/test/CheckerSuite.py
 
