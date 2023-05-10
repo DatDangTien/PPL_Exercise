@@ -8,5 +8,6 @@ python run.py test ASTGenSuite
 python run.py test CheckerSuite
 python run.py test CodeGenSuite
 
+For this assignment, I implemented on /src/main/mt22/parser/MT22.g4
 
 
