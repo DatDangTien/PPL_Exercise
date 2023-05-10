@@ -1,0 +1,12 @@
+dkf\\"};
+        b: auto = 13_4;
+        inc: function void(out n: integer, delta: integer) {
+            n = n + delta;
+            while (_xy >= 0) i = i + 1;
+                a: boolean = true;
+            do {
+                b = !a;
+            }
+            while (b != false); 
+        }
+        
