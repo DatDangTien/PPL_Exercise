@@ -1,0 +1,13 @@
+x: integer = 65;
+        a: array[23_3] of auto =  {"Kangxi", 384_35, (234_24.3E4-10)};
+        b: auto = 13_4;
+        inc: function void(out n: integer, delta: integer) {
+            n = n + delta;
+            while (_xy >= 0) i = i + 1;
+                a: boolean = true;
+            do {
+                b = !a;
+            }
+            while (b != false); 
+        }
+        
